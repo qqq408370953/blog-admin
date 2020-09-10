@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "171945",
+      "name": "塔罗-六芒星",
+      "font_class": "taluoliumangxing",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "9487406",
+      "name": "测试",
+      "font_class": "caiji",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

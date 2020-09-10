@@ -1,0 +1,27 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1568775500237'); /* IE9 */
+  src: url('iconfont.eot?t=1568775500237#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPUAAsAAAAAB7gAAAOGAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDFIJmATYCJAMMCwgABCAFhG0HQhu4BlFUTipkX2MyZEy7EUHNrDWK4hPatwCLwOE4+sEPFK9hBhEcdiwAAPHw79jrfUl+iuCQVE8l4PEEI1CTLCSQ0DNuCo1Cy3q6/7fW/qk0Ggxm5wn1pLLszS5zq29uDo1mSUMTDY1E1dct0UQzDcjs/X9qbSG+CyRINJMIzRNzGU9iTf1NdO/FppPekmgziV81H2Rviym61kgzjifj4nDaWufh/JbmthatsTDqAurigAIaa1OUaIEk6A1jVy2lQR8m0GpYCcNOU0c32BV4VCDuEZEDe0qr1BSGZqGWLCziDVg0p6fGgNf+9+MfLIWdpJHhibt3G+NQ89P5umDyD4ZdPeyOZ4a8jIxFoBBXS62nTGF0kUmrqTLXZ1ZFSGMF/o8vshSV/OGRBFHh/HYwi2KJn04mitULUHLWB2VQ0YnHwFvAlH78zWp7rvmS1kZLSwRh1OPug/Zu6Opm23iWo5tl7wM2r5PdbmN5XNZuh80Wh4qoQxYX3xfG6wPCsC4QlumVo2B4uM5OnLnQcg7OBJTpcw3oxOsR39mBiNR6HHA713nguBP3wA6URrAbx9dsaJOsElsizf/Wz9cKNcsice6vbi6c8PlG9xf2T1uu2u9OVy4JIbo1YWgGS4+oC17sRb7VC0C9l2GpTQk7bDGPtLWKDsZEa21h09dV+qoQ3a6ugkKoFfT9p+Xwb9b742X75dE74nd798cyYp/vGnxXGOLVnt4n/oaMhlN+s78vPeK1dk+4s989gXyYEjUOcMH02fiOfE0zvelfBU9vr3fGrPy3gwK+HF6B7gtm7XJBs0Rr8Z8Rt6wplhTrcjFETOQkskP2+0YQyuL/UQy9nvrbB0BsDs2KGELSZAiyZpPIgl2EhjbLUDVbh1YLmpe36UOZRGnBvCUAodslJJ3eQ9btBlmwj9Aw6A2q7jBBq+Po27DNdBDnNsUcw3E0MYsIr6kCNTBnUNiJxZTM0aTUp/VimiQBFA6EsolmrGI6xpTklBhhTEAC1RTUBI7DsqwhnWoJzLPAJGN6WTAolL0owGsKOG2jMA6DxSETZiEET6MS3OaMM/f5TpgoRcahNVVNwV4YlUTaR8ICQi2QzSq1VdW1PJM0RRTBMAJEQGkUSBMwYzKJahC9vF8CxmMCJnuEdWWCqJ7QVhWYX6M83xZohTfNkSJH0X2fk1OaTFIKp4ozhFVYbnEkQQAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1568775500237') format('woff'),
+  url('iconfont.ttf?t=1568775500237') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1568775500237#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-taluoliumangxing:before {
+  content: "\e683";
+  font-size: 24px;
+}
+
+.icon-caiji:before {
+  content: "\e60a";
+  font-size: 24px;
+}
+
